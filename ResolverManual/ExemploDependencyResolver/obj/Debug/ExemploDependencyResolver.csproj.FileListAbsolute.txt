@@ -1,0 +1,10 @@
+C:\Documents and Settings\Rodrigo\Desktop\vquaiato-MVC3DependencyResolver-2e987a5\vquaiato-MVC3DependencyResolver-2e987a5\src\ResolverManual\ExemploDependencyResolver\bin\ExemploDependencyResolver.dll
+C:\Documents and Settings\Rodrigo\Desktop\vquaiato-MVC3DependencyResolver-2e987a5\vquaiato-MVC3DependencyResolver-2e987a5\src\ResolverManual\ExemploDependencyResolver\bin\ExemploDependencyResolver.pdb
+C:\Documents and Settings\Rodrigo\Desktop\vquaiato-MVC3DependencyResolver-2e987a5\vquaiato-MVC3DependencyResolver-2e987a5\src\ResolverManual\ExemploDependencyResolver\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Rodrigo\Desktop\vquaiato-MVC3DependencyResolver-2e987a5\vquaiato-MVC3DependencyResolver-2e987a5\src\ResolverManual\ExemploDependencyResolver\obj\Debug\ExemploDependencyResolver.dll
+C:\Documents and Settings\Rodrigo\Desktop\vquaiato-MVC3DependencyResolver-2e987a5\vquaiato-MVC3DependencyResolver-2e987a5\src\ResolverManual\ExemploDependencyResolver\obj\Debug\ExemploDependencyResolver.pdb
+C:\Users\Rodrigo\Documents\Meus arquivos recebidos\Desktop\vquaiato-MVC3DependencyResolver-2e987a5\vquaiato-MVC3DependencyResolver-2e987a5\src\ResolverManual\ExemploDependencyResolver\bin\ExemploDependencyResolver.dll
+C:\Users\Rodrigo\Documents\Meus arquivos recebidos\Desktop\vquaiato-MVC3DependencyResolver-2e987a5\vquaiato-MVC3DependencyResolver-2e987a5\src\ResolverManual\ExemploDependencyResolver\bin\ExemploDependencyResolver.pdb
+C:\Users\Rodrigo\Documents\Meus arquivos recebidos\Desktop\vquaiato-MVC3DependencyResolver-2e987a5\vquaiato-MVC3DependencyResolver-2e987a5\src\ResolverManual\ExemploDependencyResolver\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rodrigo\Documents\Meus arquivos recebidos\Desktop\vquaiato-MVC3DependencyResolver-2e987a5\vquaiato-MVC3DependencyResolver-2e987a5\src\ResolverManual\ExemploDependencyResolver\obj\Debug\ExemploDependencyResolver.dll
+C:\Users\Rodrigo\Documents\Meus arquivos recebidos\Desktop\vquaiato-MVC3DependencyResolver-2e987a5\vquaiato-MVC3DependencyResolver-2e987a5\src\ResolverManual\ExemploDependencyResolver\obj\Debug\ExemploDependencyResolver.pdb
